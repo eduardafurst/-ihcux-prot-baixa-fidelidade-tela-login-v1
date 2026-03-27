@@ -1,2 +1,2 @@
 ## 📸 Evidência de Execução
-![Foto do meu terminal](Telav1.PNF)
+![Foto do meu terminal](Telav1.PNG)
